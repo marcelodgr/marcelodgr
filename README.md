@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelodgr
 - 👀 I’m interested in small projects
-- 🌱 I’m currently learning HTML, CSS and Pyhthon
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on small projects or tasks where I can solve problems while developing my programming skills.
 - 📫 Reach me in my email (marcelodgrusso@gmail.com)
